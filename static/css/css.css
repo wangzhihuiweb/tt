@@ -1,0 +1,13 @@
+body{
+	background:#000;
+}
+*{margin:0;padding:;}
+.getTnto{
+	width:2rem;
+	height:2rem;
+	position: absolute;
+	left:0;
+	top:0;
+	background:url(../images/getTnto.png);
+	background-size: 100% 100%;
+}
